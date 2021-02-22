@@ -268,7 +268,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/beckham/proprietary/vendor/lib/libcppf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcppf.so \
     vendor/motorola/beckham/proprietary/vendor/lib/libdepthmapwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdepthmapwrapper.so \
     vendor/motorola/beckham/proprietary/vendor/lib/libdualcameraddm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdualcameraddm.so \
-    vendor/motorola/beckham/proprietary/vendor/lib/libeqservicebridge.so:$(TARGET_COPY_OUT_VENDOR)/lib/libeqservicebridge.so \
     vendor/motorola/beckham/proprietary/vendor/lib/libflash_aw3643_front.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_aw3643_front.so \
     vendor/motorola/beckham/proprietary/vendor/lib/libflash_aw3643_rear.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_aw3643_rear.so \
     vendor/motorola/beckham/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
@@ -424,7 +423,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/beckham/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.adspd@1.0-impl.so \
     vendor/motorola/beckham/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.adspd@1.0.so \
     vendor/motorola/beckham/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.adspd@1.0_vendor.so \
-    vendor/motorola/beckham/proprietary/vendor/lib/motorola.hardware.audio.eqservice@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.eqservice@1.0_vendor.so \
     vendor/motorola/beckham/proprietary/vendor/lib/motorola.hardware.health@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.health@1.0.so \
     vendor/motorola/beckham/proprietary/vendor/lib/sensors.iio.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.iio.so \
     vendor/motorola/beckham/proprietary/vendor/lib/soundfx/libmmieffectswrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmmieffectswrapper.so \
